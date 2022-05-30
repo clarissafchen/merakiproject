@@ -7,7 +7,8 @@ Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github
 View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/clarissafchen/merakiproject/gh-pages/img/Screenshot.png![image](https://user-images.githubusercontent.com/6592016/171051856-00913df8-aa28-4096-bdb3-a806b9f4d986.png)
+)
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
