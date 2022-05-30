@@ -1,7 +1,7 @@
 # Site settings
 title: Meraki Project
 email: clarissafchen@gmail.com
-url: "http://clarissafonseca.com"
+url: "http://clarissachen.com"
 baseurl: "/merakiproject"
 description: "This has been created as part of my job application to Cisco Meraki"
 
@@ -17,8 +17,6 @@ footer: Clarissa Fonseca Chen
 social:
   - title: twitter
     url: https://twitter.com/ClarisFonseca
-  - title: facebook
-    url: https://www.facebook.com/groups/729580157120904/
   - title: linkedin
     url: https://www.linkedin.com/in/clarissafchen/
   - title: github
